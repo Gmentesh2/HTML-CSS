@@ -1,0 +1,240 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+
+/*Header*/
+.main-menu {
+    background-color: rgba(14, 0, 0, 0.953);
+    display: flex;
+    height: 39px;
+    width:100%;
+    justify-content: space-between;
+    align-items: center;
+
+
+}
+
+.menu {
+    display: flex;
+    gap: 27px;
+    margin:0;
+    margin-right: 133px;
+    height: fit-content; 
+    
+     
+    
+}
+
+.name {
+    text-decoration: none;
+    margin-left:100px;
+    color:rgba(240, 248, 255, 0.962);
+    font-size: 17px;
+}
+
+.menu-l {
+    list-style: none;
+}
+
+.menu-detail {
+    color:rgba(224, 255, 255, 0.6);
+    text-decoration: none;
+    font-size: 15.5px;
+}
+
+
+/*Basic content*/
+
+.main-nav {
+    background-color: rgb(49, 98, 244);
+    height: 222px;
+    width: 100%;
+    display:inline-block;
+    
+       
+}
+
+.scr-nav {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 66px;
+    color:rgba(255, 255, 255, 0.901);
+    font-weight: bold;
+    font-family:sans-serif;
+    padding: 3px 2px;
+}
+
+.p {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    color:rgba(255, 255, 255, 0.83);
+    margin-bottom: 7.5px;
+    
+}
+
+.scr {
+    display: block;
+    margin:0 auto;
+    border: 1.5px solid white;
+    width:fit-content;
+    background-color: white;;
+    color:black;
+    text-decoration: none;
+    border-radius: 3px;
+    padding: 5px 5px;
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: 13px;
+   
+}
+
+/*footer*/
+
+.footer {
+    display: inline-block;
+}
+
+.ul1 {
+    display:inline-block;
+    margin-left: 236px;
+    font-size: 15.5px;
+    font-family: sans-serif;
+    font-size: 13.8px;
+}
+
+.p2 {
+    margin-left: 204px;
+    margin-bottom: 11px;
+    font-family: sans-serif;
+    width: 90vh;
+
+}
+
+.h2 {
+    margin-left: 204px;
+    margin-top: 83px;
+    margin-bottom: 14px;
+    font-family: sans-serif;
+}
+
+
+/* Register form*/
+
+.reg-body {
+    background-color: rgb(178, 73, 34);
+}
+
+.form- {
+    background-image: url("https://img.freepik.com/premium-vector/overlapping-forms-background_23-2148677060.jpg");
+    background-size: cover;
+    width: 530px;
+    height: 550px;
+    display: block;
+    margin:0 auto;
+    margin-top: 79px;
+    border: 2px solid rgb(210, 14, 17);
+    border-radius: 39px;
+    font-family: sans-serif;
+    
+}
+
+.register {
+    display: flex;
+    justify-content: center;
+    font-size: 35px;
+    font-weight: bold;
+    font-family: sans-serif;
+    background-color: rgba(165, 42, 42, 0.316);
+    border: 1.5px solid rgba(165, 42, 42, 0.458);
+    border-radius: 20px;
+    margin: -1.5px 8.1px;
+    color:rgba(165, 42, 42, 0.882);
+    margin-bottom: 9px;
+
+}
+
+.fill-out-form {
+    display:flex;
+    justify-content: center;
+    font-size: 17.5px;
+    font-family: sans-serif;
+    margin-bottom: 9px;
+}
+
+
+.gender {
+    display: flex;
+    justify-content: center;
+    font-size: 16px;
+    font-family: sans-serif;
+    margin-bottom: 10px;
+}
+
+.man {
+    margin-left: 189px;
+
+}
+
+.first-name {
+    margin-left: 7px;
+    margin-top: 20px;
+    
+    
+}
+
+.last-name {
+    margin-top: 20px;
+    margin-bottom: 14px;
+    
+}
+
+.email {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
+.number {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    
+}
+
+.date {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
+
+.file {
+    display:inline-block ;
+    margin-left: 200px;
+    
+
+}
+
+
+.submit {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    margin-top: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
